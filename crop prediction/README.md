@@ -19,7 +19,6 @@
 <ul>
   
 <li>	Crop Prediction:
-<li>	Price Prediction:
   </ul>
 
 </body>
